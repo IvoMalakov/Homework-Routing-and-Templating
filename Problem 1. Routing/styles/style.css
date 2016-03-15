@@ -1,0 +1,11 @@
+li {
+    display: inline-block;
+    margin: 10px;
+}
+
+h2 {
+    font-family: "Arial Black";
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 40px;
+}

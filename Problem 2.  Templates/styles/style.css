@@ -1,0 +1,13 @@
+table, tr, td, th {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td {
+    padding: 10px;
+}
+
+#wrapper {
+    font: 18px Tahoma;
+    margin: 30px auto auto 30px;
+}
